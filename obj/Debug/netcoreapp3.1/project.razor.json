@@ -1,0 +1,16 @@
+{
+  "FilePath": "d:\\Faculty\\WebProgrammingCourse\\L9.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": null,
+  "RootNamespace": "L9",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
